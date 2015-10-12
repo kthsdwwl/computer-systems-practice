@@ -1,0 +1,6 @@
+break getbuf
+run < input5_2.tr
+break Gets
+c
+finish
+disas getbuf
